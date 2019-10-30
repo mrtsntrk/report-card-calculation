@@ -1,0 +1,8 @@
+C:\Users\Mertinko\source\repos\karne-hesaplama\karne-hesaplama\bin\Debug\karne-hesaplama.exe.config
+C:\Users\Mertinko\source\repos\karne-hesaplama\karne-hesaplama\bin\Debug\karne-hesaplama.exe
+C:\Users\Mertinko\source\repos\karne-hesaplama\karne-hesaplama\bin\Debug\karne-hesaplama.pdb
+C:\Users\Mertinko\source\repos\karne-hesaplama\karne-hesaplama\obj\Debug\karne_hesaplama.Form1.resources
+C:\Users\Mertinko\source\repos\karne-hesaplama\karne-hesaplama\obj\Debug\karne_hesaplama.Properties.Resources.resources
+C:\Users\Mertinko\source\repos\karne-hesaplama\karne-hesaplama\obj\Debug\karne-hesaplama.csproj.GenerateResource.cache
+C:\Users\Mertinko\source\repos\karne-hesaplama\karne-hesaplama\obj\Debug\karne-hesaplama.exe
+C:\Users\Mertinko\source\repos\karne-hesaplama\karne-hesaplama\obj\Debug\karne-hesaplama.pdb
