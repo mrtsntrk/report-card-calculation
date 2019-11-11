@@ -1,3 +1,3 @@
 # Karne Hesaplama Çalışması
-Shopier Ortak Ödeme Sayfası
+Karne Hesaplama Programı
 Anlatım: https://www.kodevreni.com/5153-c-not-hesaplama-program%C4%B1/
